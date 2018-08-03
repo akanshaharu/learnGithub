@@ -411,3 +411,12 @@ username aur password dalo babu :)
 ohhhh! HO GYII
 ha babu :)
 aur dekho ab ek chijii karte hai.
+
+babu dekho maine ek file add ki, commit kar diya
+but ye commit to local hai na ? hai .
+ha to ab is ko firse hamari online repository se sync/ upload karne ke liye 
+hame command use karenge `git push`
+ap karo :)
+pehle ise b kar du commit?
+
+ha babu bilkul marji hai :)okkk
