@@ -168,3 +168,13 @@ sab kar len abut
 pehle Smile:)
 mai aati hu ha thodi der mai
 ok babu :)
+
+to ab ham branching karenge babu branching commit se different hai 
+Commit is done in a branch, to save Snapshot.
+branching is like Copying Pasting Everything into another folder
+samajh aya babu halka halka ?
+gehra gehra aya
+ok babu :)
+To branching ke liye command hai
+`git checkout -b branchNameWhateverWeWant` 
+to mai abhi demo deta hu fir sab clear ho jaega babu
