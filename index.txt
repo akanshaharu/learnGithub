@@ -236,3 +236,7 @@ okkkkto usme utna hi stage hua aur 2nd wale mai baki ka b?
 
 ha babu click karo dono pe aur dekho :)
 ok
+ho gai branch merge :)
+ab babu Freshbranch mai jao aur Master ko Ap Merge karo
+command hai `git merge branchName`
+okk
