@@ -240,3 +240,7 @@ ho gai branch merge :)
 ab babu Freshbranch mai jao aur Master ko Ap Merge karo
 command hai `git merge branchName`
 okk
+
+ab karte h isko b modify then commit then vaha jake merge ok :D
+okkkkkkkkkkkkkkkk
+
