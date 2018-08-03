@@ -296,3 +296,118 @@ babu ko yaad hai na vo green wala part he commit kyiya tha? ab vo maine revert k
 samjhi babu .
 to bas babu ab commit karo master mai vapis jao and last time merge karo aur done :)
 okkkk
+no conflict
+kyuki babu un lines ke bad he hamne koi new cheeje add ki hai, existing data overwrite hua he ni :)
+to ab?
+ab bas mum, babu ko merging aa gai, branch banani aa gai, commit aa gaya,
+Mostly yahi hai Git mai baki jaise jaise jarurat padegi vo bhi bataunga :)
+kabhi kabhi aisa hoga ki jitne bhi commit kiye hai vo sab revert karne hai to uske liye`
+`git reset --hard` use karte hai
+but main main vahi hai jo babu ko bataya :)
+Git reset ki jarurat he ni padegi branch karegi babu to 
+are ha
+branch delete batata hu.
+ab dekho hamare pas 2 branch hai :)
+ab ap Freshbranch ko delte kardo
+okkk
+ho gyi
+basss fir maje :)
+babu ko samajh aya na aj sab. babu bilkul b bore ni hui dheere dheere kara ra hu itna .:)
+ok babu to ab last cheej batau Github ?
+okkk
+babu ka account hai to login karo babu
+okk
+
+account h to par usme kara kta h maine mujhe b nhi pata
+koi ni babu ab aa jaega :)
+Ok to github ek repository storage hai, hamne ye repository he banai thi git init karke
+repository bas fancy word hai folder ke liye XD
+github pe ham is repository ko upload kar skte hai aur har commit/branch sath sath upload kar skte hai
+isse teams mai kaam karne mai help hoti hai
+aise hota hai
+Maine ek feature add kiya, us branch ko  upload kar diya
+ab doosra koi bhi us repository ko download kar skta hai, koi feature add kar skta hai aur fir upload kar dega
+Ab vo hamare upar hai ham uska feature accept/merge kare ya na.
+Samajhi babu .
+aur agar ham na kare accept to uske pas uska rahega aur hmare pas apna original?
+ha babu bilkul sahi :)
+kal na babu ko ye sab karke dikhaunga abhi bas upload karenge Github pe kyuki bohot jada ho jaega varna 1 he din mai :)
+
+okkkk
+ab hamne ek repository bana di babu, ab ham usme apna ye project upload karenge :)
+uske liye github commands bhi batata hai
+
+
+Dekhi `git commit -m "first commit"` for first commit jo maine babu ko bata diya
+`git remote add origin https://github.com/akanshaharu/learnGithub.git` ye link hai repository ki 
+jisse ham hamare is PROJECT ko link karna chahte hai taki upload/sync kar sake,
+Kuch ni karna bas ye command copy paste karo ek bari terminal mai :)
+okkk
+kaha gya terminal?
+babu terminal open close karne ke liye `ctrl + ``kkk
+le 1 ke left wali key hai konsa le?
+babu ctrl + keyOnTheLeft of 1
+ya fir babu ctrl + j bhi daba skti hai 
+ye try karo :)
+ctrl + kisliye tha?
+ usse to maximize ho rha h bas
+ha re babu kyuki mai samjha ni paya vo
+"ctrl + `" ye hai vo chota sa tedha sa sign. achaaaa
+tilde kehte hai use :)
+ctrl + j bhi use kr skti hai babu koi dikkat ni hai :)
+~ to ye likhta na tu to ' ye likh rha tha 
+
+na babu mai ` likh raha hu vo ~ shift daba ke ata hai to likhna kya h ~b ya `?
+koi likha ni hai mai to bas key bata ra tha babu kaunsi hai :)
+okkkk
+ab tu bas kar
+ thak gya kitnaa
+ itttaaa sara type kar kar ka
+ pareshan ni kiya  maine tujhe bilkul bhi :)
+ ha tu to kabhi karta nhi h maine kiya h tujhe:)
+na babu mai ni hua pareshan bilkul bhi, babu ko samajh aa rah hia bas 
+mujhe yahi chiye :)
+bs?
+ha babu sabse choti finger nhi?
+babu command copy karo jada late ho gai koi daat dega ni to
+kise mujhe ya tujhe?
+na babu mujhe to koi kuch ni kahega
+mujhe b nhi kahega tension na le mmai 3 bje b soyi hu:)
+okk babu :) ab karo copy paste :) okkk
+
+ kar di
+ab usse next wali
+but ruko ek chijji padho 
+dekho babu upar keh raha hia
+`create new repository on command lin`
+aur
+`push an existing repository`
+
+ab batao babu hamari existing hai ye new hai ?
+new h
+na babu hamari existing hai 
+new tab hoti hai jab ham just git init karte hai
+hamne to uske baad kitta kaam kar diya na
+to hamari existing hai
+
+aur babu dhyan se dekho new ke liye command
+aur existing ke liye command
+last ki 2 dono ki same hai :)
+ha
+git add, kisliye tha?
+kisi bhi file ko stage karne ke liye babu
+fir usko commit karne ke git commit :)
+but GUI better hai 
+achaa haaa
+babu tension na lo age seekhte seekhte baki cheeje karenge na to sabkuch
+ekdum dhang se aa jaega :)
+abhi ap vo last command aur copy paste karo, aur fir browser refresh karo :)
+okkkk
+kar diya'
+par push ni hua 
+kyu?
+pata ni babu hona chiye ruko mai karta hu :)
+username aur password dalo babu :)
+ohhhh! HO GYII
+ha babu :)
+aur dekho ab ek chijii karte hai.
