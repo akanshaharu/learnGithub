@@ -110,3 +110,41 @@ acha vo sab command se aur ye direct
 ha babu ye badhiya hai fataak se ho jata hai
 save karte hi direct stage wali command karta h?
 na babu save karte he bas status, stage karna na karna hamare upar hai jasie dekho abhi dikhata hu
+
+ab dekho 2 files modified hui
+
+ab stage ham dono ko ya koi ek kar skte hai, Staging vahi truck mai load karna, 
+stage ke liye + ka symbol,. dikha babu ko ?
+to index.txt stage karo
+ab dekho babu index.txt load ho gai hai ham sirf use commit kar skte hai :)
+
+okkk
+
+
+ab staged file ko commit karo, pehle message likho then commitya 
+bas ho gai commit, butttt hamne JIS MOMENT pe stage kari thi file uske bad aur Modification kardi to ab firse modified mai dikha raha haina
+ab ek final commit karo bas message likhe ke  ctrl + enter
+kaha  dikha rha h modified mai?
+achaa
+ab akro final commit
+sab files karni ho to babu ko vo + karne ki jarurat ni hai seedha message and commit
+dusri wali kaha gyi?
+
+abhi babu ne doosri wali file he stage kari thi aur vahi commit kari hai, aur uske bad hamnse doosri file change he nahi kardi
+isliye nahi dikha raha :)
+okk
+acha vo modify hui hi nhi na
+ha babu :)
+jada gadhi to nhi mai?:)
+
+babu bilkul vaisi he hai jaise hab mai MAth padhata tha 
+mai to aisi hi hu:)
+
+ha babu :)
+ab karo final commit fir commit mum ho jaega
+okk
+but iske baad thodi der rokna padega
+mummy k vhi survical vala pain h to thoda sir dabana padega
+ha babu koi ni :)
+ok to karte h iska full n final commit:)
+karo karo
