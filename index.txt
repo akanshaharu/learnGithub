@@ -241,6 +241,7 @@ ab babu Freshbranch mai jao aur Master ko Ap Merge karo
 command hai `git merge branchName`
 okk
 
+<<<<<<< HEAD
 koi bhi Conflict nahi aya to direct merge ho gaya :)
 Conflict isliye nahi aya kyuki hamne pehle he `Freshbranch` ko `master` mai merge kar liya tha isliye.
 ab ek bari Master mai jao, koi commit karo , vapis ao, merge karo :)
@@ -272,3 +273,8 @@ kar le maje mai karti hu isko merge
 merge se pehle isko to commit karna h :D
 okk copycat:)
 ha bilkul :D
+=======
+ab karte h isko b modify then commit then vaha jake merge ok :D
+okkkkkkkkkkkkkkkk
+
+>>>>>>> master
