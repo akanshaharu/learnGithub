@@ -241,7 +241,6 @@ ab babu Freshbranch mai jao aur Master ko Ap Merge karo
 command hai `git merge branchName`
 okk
 
-<<<<<<< HEAD
 koi bhi Conflict nahi aya to direct merge ho gaya :)
 Conflict isliye nahi aya kyuki hamne pehle he `Freshbranch` ko `master` mai merge kar liya tha isliye.
 ab ek bari Master mai jao, koi commit karo , vapis ao, merge karo :)
@@ -273,8 +272,27 @@ kar le maje mai karti hu isko merge
 merge se pehle isko to commit karna h :D
 okk copycat:)
 ha bilkul :D
-=======
-ab karte h isko b modify then commit then vaha jake merge ok :D
-okkkkkkkkkkkkkkkk
+aa gye Conflicts 
+ha babu :D
+kyuki vaha pe 244 line mai changes kiye tha aur yaha already kuch tha un lines pe.
+ab agr mai yha ka kuch part copy karke master mai chepu to master ka baki ka part to neeche neeche lines mai shift hio jayega na?
+matlab babu master mai kuch likhegi ? ha vaha baki content shift ho jaega, 
+aur fir is branch ko merge karenge aur agar same lines mai alag alag change hue to conflict ayega .
 
->>>>>>> master
+okkkk to ab yaha kya karna h kuch part karu copy ka koi ek hi change karu accept?
+ha babu koi bhi change accept kardo then Stage then Commit aur mergin Complete :)
+okkkk
+file save to ki ni thi gadhi babu neee XD
+ki thi
+vo jo green mai hai na babu usse pehle save ki thi matlab :)
+samjhi babu ? ok ab dubar kya karu merging dubara karu ya bas stage and commit karu?
+mergin to complete ho gai babu dekho left panel mai ni dikha raha MERGE CHANGS 
+ab to bas simple commit hai ki hamne MERGE karne ke baad kuch aur kaam bhi kar diya :)
+okkkkkkkkkkkkkkkk
+kar diyA sab
+ok babu to ab ek last chijji,
+babu aisa kabhi ho jaye ki babu Kuch galat Commit karde to use revert kar skte hai dekho dikhata hu 
+babu ko yaad hai na vo green wala part he commit kyiya tha? ab vo maine revert kiya to last commit hat gaya tha.
+samjhi babu .
+to bas babu ab commit karo master mai vapis jao and last time merge karo aur done :)
+okkkk
