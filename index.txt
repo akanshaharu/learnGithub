@@ -198,3 +198,11 @@ vaise msg likha kyu hota h yha
 
 babu usse pata chal jata hai ki Commit mai actually Kiya kya hai hamne, uska bhi dikhaunga abhi pehle Save karo, Commit karo, Branch banao
 okkk
+
+aa gaye ham master mai :)
+aya babu ko branch ka system ?
+haa 
+ab mai vapas jaati hu usi branch mai GUI se
+ha babu but remember always Commit/discard :)
+
+okkkk
