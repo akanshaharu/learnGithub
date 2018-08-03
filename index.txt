@@ -18,3 +18,61 @@ okk
 ab dekho left mai yaha dikha raha hai ki Git start ho gaya
 
 File ko Commit karke ham vapis isi State pe aa skte hai kabhi future mai jarurat pade to
+
+
+Commit karne ke liye best hai VScode mai he seedha bas message likho and ctrl + enter
+commit ki command use kyu hotui h?
+VScode ke GUI mai commit ki command inbuilt hai, Commit ki command isliye use karte hai taki File/Folder/Projec ka 
+ek Snapshot ( state ) save ho jaye.
+okk
+`git status` batata hai ki kaunsi files commit nahi hotu jiase terminal mai dikh raha hai index.txt
+ab 2 files commit ni hui 
+ab commit karne ke liye ham `git add .` use karte hai
+git add se files Staged Hui hai ki ye files Commit ho jayegi but actually Commit ni hui.
+Samajh aya babu ko ?
+ye nhi aya
+
+Ok to babu Commit karne ke liye 2 Stages hoti hai, Staging and Actual Commit.
+Pehle ham Stage karte hai ki ye files mai commit karunga
+Then ham commit karte hai
+Jaiseee, koi samaan bhejna ho kahi, to pehle use Truck mai load karte hai (Stage) then bhejte hai (commit)
+ab aya?
+ha ab aa gya 
+ok to hamne Stage kardi then commit ke liye command hai
+`git commit -m "some message"` 
+ab ye command terminal mai enter karo :)
+are configuration kari he ni XD 
+abhi karte hai
+okk
+ye username and email configuration isliye add kari taki baad mai pata chal sake ki Commit kisne Kiya
+ok babu ?
+okk
+ab karo vo command try
+okkgit
+ab `git status` karo
+nothing to commit :)
+bolo 
+kya bolu?
+mujhe laga kuch type kar re the
+ye sab command vagarh to chal gyi pata but co mit to hua nhi kuch
+hua hai babu tabhi to `git status` dikha raha hai ki `nothing to commit` jaise ek bari ye file save karo then 
+`git status` 
+`git add .`
+`git commit -m "another message"` 
+use karo ye 3 commands :)
+file konsi kar rhe h ham commit?
+yahi index.txt aur jo bhi `git status` dikhayega :)
+okk
+save kaha se hoti h?
+
+`ctrl + s`
+acha shotcut
+ha babu shortcut best hai
+ab karo sari commands run 
+modified aa gya
+ha kyuki pehle index.txt mai alag text tha aur ab alag hai :)
+pehle kya tgha
+?
+are babu pehle jab commit kiya tha 1st wala tab uske bad bhi to hamne aur chat add kardi naisliye 
+acha ye chat hi add kare ja rha ha
+ha babu ye file he commit hue ja rahi hai, har commit us time ka ek Snapshot save karta hai ki Is commit ke during is file mai ye sab tha
