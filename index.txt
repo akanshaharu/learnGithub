@@ -1,0 +1,20 @@
+pakka?
+ha babu:)
+ok batao fir
+ek bari VScode restart karte hai
+okk
+
+babu Git ek Version Control hai
+Jaise mujhe koi project karna ho ya kuch bhi to muje Version 2 banana ho to Version 1 ki sari files copy karni padegi haina?
+to Git usi mai help karta hai bas, taki duniya bhai ke folders na banane pade.
+
+Jaise, is file mai maine koi Code likha fir mai chahta hu ki Code change karu but Previous Version bhi rahe
+to mai index1.txt banaunga aur index.txt ka sara code copy karugna haina?
+answer do babu agar samajh aya to :)
+version control samajhti hu mai:)
+okk babu to bas yahi hai Git
+Ab Git ko Kisi bhi Folder mai start karna ho to `git init` command use karte hai
+okk
+ab dekho left mai yaha dikha raha hai ki Git start ho gaya
+
+File ko Commit karke ham vapis isi State pe aa skte hai kabhi future mai jarurat pade to
