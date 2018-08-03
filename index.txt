@@ -198,3 +198,10 @@ vaise msg likha kyu hota h yha
 
 babu usse pata chal jata hai ki Commit mai actually Kiya kya hai hamne, uska bhi dikhaunga abhi pehle Save karo, Commit karo, Branch banao
 okkk
+
+very good, ab yaha koi commit karo aur vapis `master` branch mai joa GUI se
+` F1 ` then type ` git checkout`
+
+BABUUUUUUUUUUUUUU
+ALWAYS COMMIT/DISCARD before changing branchokkkkk
+okkkkkkkkkkkkkkkk:)
