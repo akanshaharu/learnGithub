@@ -240,3 +240,22 @@ ho gai branch merge :)
 ab babu Freshbranch mai jao aur Master ko Ap Merge karo
 command hai `git merge branchName`
 okk
+
+koi bhi Conflict nahi aya to direct merge ho gaya :)
+Conflict isliye nahi aya kyuki hamne pehle he `Freshbranch` ko `master` mai merge kar liya tha isliye.
+ab ek bari Master mai jao, koi commit karo , vapis ao, merge karo :)
+par hgamne to kuch part hi liya tha na baki jo part bacha usse conflict kyu nhi aya?
+ye to mujhe bhi samajh ni aya kyu ni aya kyuki ana chiye tha xD
+vhi to
+baki to vaise hi h part ab koi dikkat nhi h ised kyu bhaee?
+pata ni babu hona chiye tha but samajh he ni aya mujeh bhi 
+okkk baad mai dekhna kuch pata chale tb batana vrna chodo
+ha babu pata karunga :) ab aap ye karo
+ab ek bari Master mai jao, koi commit karo , vapis ao, merge karo :)
+okk pehle ise commit kar du na?
+ha babu bilkul
+okkkkkkkkkkkkkkkk
+kya hua tha?
+vo babu maine galti se ctrl dbba diya to koi shortcut activate ho gya jaise he babu ne koi key dabai
+okkkk
+abhi karte h isko commit
