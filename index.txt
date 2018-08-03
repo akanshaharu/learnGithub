@@ -76,3 +76,37 @@ pehle kya tgha
 are babu pehle jab commit kiya tha 1st wala tab uske bad bhi to hamne aur chat add kardi naisliye 
 acha ye chat hi add kare ja rha ha
 ha babu ye file he commit hue ja rahi hai, har commit us time ka ek Snapshot save karta hai ki Is commit ke during is file mai ye sab tha
+okkk
+galat ho gya
+nhi ho raha
+karo karo type
+babu add ke baad space bhi hai 
+okk
+
+very good commit message XD
+
+thankyou thankyou :)
+ok babu to ye tha Commit karna COmmands se 
+ab ham karenge GUI use, itna samajh aya babu ko ?
+ha
+but agar dekhna ho to jo jo cmmit ki h vo version?
+matlab pichle version pe jana ho ?
+ha
+uske liye babu Vaise Commit better ni hai Branch Better hai, usually babu Version Change/Modification ke liye 
+branch use karegi Commit to bas ye batata hai ki kya kiya 
+pichle commit pe bhi ja skte hai but karte ni hai mostly
+kyuki pichle commit pe jane ke liye Commit ki `ID` dekhni padti hai, usse achi branching hai, abhi vo bhi bataunga :)
+itna babu ko samajh aya na ?
+ha bilkul tu batayeg to aayega nhi?
+:)
+okk babu to ab hham GUI use karnege VScode ki.
+ab dekho ye left mai panel khula hai vaha Koi bhi File ni dikh ri, haina?
+ha
+
+Ham jaise he save karenge dikh jayegi, kyuki file modified ho jayegi 
+aa gai na, to ye vahi hai `git status` but ye khud run karta hai file save hote he.
+aur ab commit karni ho to simply Message likho aur `ctrl + enter`
+acha vo sab command se aur ye direct 
+ha babu ye badhiya hai fataak se ho jata hai
+save karte hi direct stage wali command karta h?
+na babu save karte he bas status, stage karna na karna hamare upar hai jasie dekho abhi dikhata hu
